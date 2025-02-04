@@ -4,16 +4,19 @@
 This project is a Selenium-based hybrid test automation framework developed in Java. It automates the testing of the TutorialsNinja e-commerce website, leveraging a combination of the Page Object Model (POM), Page Factory Model, and Data-Driven Testing.
 
 ## Features
-- **Hybrid Framework**: Combines Data-Driven Testing, Page Object Model (POM), and Page Factory.
-- **Selenium WebDriver**: Used for browser automation.
-- **TestNG**: Manages test execution and reporting.
-- **Listeners for Extent Reports**: Integrated to generate detailed test execution reports.
-- **Apache POI**: Handles Excel-based test data.
-- **Properties File**: Stores configuration values to replace hardcoded data.
-- **Code Optimization**: Implemented best practices to enhance maintainability.
-- **Screenshot Capture**: Automated screenshots using Selenium functions.
-- **Page Factory Design**: Helps prevent StaleElementReferenceException.
-- **CI/CD Integration**: Configured with Jenkins for continuous testing.
+✅ Hybrid Framework Implementation – Your project effectively combines Data-Driven Testing, Page Object Model (POM), and Page Factory, which enhances scalability and maintainability.
+
+✅ TestNG Integration – Well-structured test execution flow using TestNG annotations, suite files, and parallel execution support.
+
+✅ Extent Reports with Listeners – Proper implementation of TestNG listeners to generate detailed execution reports, making debugging easier.
+
+✅ Code Optimization & Modularity – Efficient usage of Page Object Model (POM) with Page Factory to improve reusability and readability. The properties file ensures flexibility by avoiding hardcoded values.
+
+✅ Data-Driven Approach – Test data is managed using Apache POI to fetch values from Excel, enabling dynamic test execution.
+
+✅ Exception Handling – Proper handling of StaleElementReferenceException through Page Factory, reducing test flakiness.
+
+✅ CI/CD Readiness – Maven for dependency management and version control with Git/GitHub, making it easy to integrate with Jenkins for continuous execution.
 
 ## Prerequisites
 - Java (JDK 21)
