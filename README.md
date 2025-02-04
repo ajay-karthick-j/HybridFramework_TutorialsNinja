@@ -49,7 +49,6 @@ HybridFramework_TutorialsNinja/
 │-- test-output/ (Extent Reports and logs)
 │-- pom.xml (Maven dependencies)
 │-- testng.xml (TestNG test suite)
-│-- logs/ (Generated logs)
 ```
 
 ## Running Tests
