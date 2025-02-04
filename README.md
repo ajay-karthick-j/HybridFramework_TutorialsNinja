@@ -16,7 +16,7 @@ This project is a Selenium-based hybrid test automation framework developed in J
 - **CI/CD Integration**: Configured with Jenkins for continuous testing.
 
 ## Prerequisites
-- Java (JDK 8 or later)
+- Java (JDK 21)
 - Maven
 - Selenium WebDriver
 - TestNG
@@ -69,12 +69,6 @@ Or, execute specific test cases from the IDE.
 - Replaced hardcoded test data with an external **Properties file**.
 - Optimized code to improve execution speed and maintainability.
 
-## Contributing
-Feel free to fork and submit pull requests for enhancements.
-
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-For queries, reach out to [your-email@example.com](mailto:your-email@example.com).
+For queries, reach out to [your-email@example.com](mailto:ajaykarthick.jeyaraman@gmail.com).
 
