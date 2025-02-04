@@ -68,5 +68,5 @@ Or, execute specific test cases from the IDE.
 - Optimized code to improve execution speed and maintainability.
 
 ## Contact
-For queries, reach out to [your-email@example.com](mailto:ajaykarthick.jeyaraman@gmail.com).
+For queries, reach out to [ajaykarthick.jeyaraman@gmail.com](mailto:ajaykarthick.jeyaraman@gmail.com).
 
