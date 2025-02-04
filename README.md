@@ -24,7 +24,6 @@ This project is a Selenium-based hybrid test automation framework developed in J
 - Extent Reports
 - Git & GitHub
 - Jenkins (optional for CI/CD)
-- Browser Drivers (ChromeDriver, GeckoDriver, etc.)
 
 ## Installation
 1. Clone the repository:
