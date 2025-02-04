@@ -3,20 +3,28 @@
 ## Project Overview
 This project is a Selenium-based hybrid test automation framework developed in Java. It automates the testing of the TutorialsNinja e-commerce website, leveraging a combination of the Page Object Model (POM), Page Factory Model, and Data-Driven Testing.
 
-## Features
-✅ Hybrid Framework Implementation – Your project effectively combines Data-Driven Testing, Page Object Model (POM), and Page Factory, which enhances scalability and maintainability.
+## Key Features
 
-✅ TestNG Integration – Well-structured test execution flow using TestNG annotations, suite files, and parallel execution support.
+### ✅ Hybrid Framework Implementation
+The framework effectively integrates **Data-Driven Testing**, **Page Object Model (POM)**, and **Page Factory** to ensure scalability and maintainability. This hybrid approach allows for better organization of code and easier updates.
 
-✅ Extent Reports with Listeners – Proper implementation of TestNG listeners to generate detailed execution reports, making debugging easier.
+### ✅ TestNG Integration
+The test execution flow is well-structured using **TestNG annotations**, **suite files**, and **parallel execution support**. This ensures efficient test management and execution.
 
-✅ Code Optimization & Modularity – Efficient usage of Page Object Model (POM) with Page Factory to improve reusability and readability. The properties file ensures flexibility by avoiding hardcoded values.
+### ✅ Extent Reports with Listeners
+The framework includes a proper implementation of **TestNG listeners** to generate detailed execution reports. These reports make debugging easier and provide insights into test execution results.
 
-✅ Data-Driven Approach – Test data is managed using Apache POI to fetch values from Excel, enabling dynamic test execution.
+### ✅ Code Optimization & Modularity
+The framework leverages the **Page Object Model (POM)** with **Page Factory** to improve code reusability and readability. Additionally, a **properties file** is used to avoid hardcoded values, ensuring flexibility and configurability.
 
-✅ Exception Handling – Proper handling of StaleElementReferenceException through Page Factory, reducing test flakiness.
+### ✅ Data-Driven Approach
+Test data is managed using **Apache POI**, which fetches values from Excel sheets. This enables dynamic test execution and allows for easy maintenance of test data.
 
-✅ CI/CD Readiness – Maven for dependency management and version control with Git/GitHub, making it easy to integrate with Jenkins for continuous execution.
+### ✅ Exception Handling
+The framework includes proper handling of **StaleElementReferenceException** through **Page Factory**, reducing test flakiness and improving reliability.
+
+### ✅ CI/CD Readiness
+The project uses **Maven** for dependency management and **Git/GitHub** for version control. This setup makes it easy to integrate with **Jenkins** for continuous execution, ensuring seamless CI/CD pipeline integration.
 
 ## Prerequisites
 - Java (JDK 21)
